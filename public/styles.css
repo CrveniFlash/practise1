@@ -1,0 +1,21 @@
+.btn-primary {
+    background-color: #8D5CF6;
+}
+
+.txt-color-main {
+    color: #8D5CF6;
+}
+
+.btn-primary-border {
+    background-color: #8d5cf600;
+    border: 1px solid #8D5CF6;
+    transition: 0.1s ease-in-out;
+}
+
+.btn-primary-border:hover {
+    background-color: #8D5CF6;
+}
+
+/* .join-btn {
+    cursor: pointer;
+} */
