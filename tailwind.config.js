@@ -17,6 +17,7 @@ module.exports = {
       violet: colors.violet,
       pink: colors.pink,
       btnPrimary: '#8D5CF6',
+      red: colors.red,
         
       },
     extend: {},
